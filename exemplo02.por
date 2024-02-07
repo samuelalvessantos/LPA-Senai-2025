@@ -8,7 +8,7 @@ programa
 
 	escreva("Digite um número inteiro: ")
 	leia(numero)
-	escreva("O número digitado foi: ",numero,".")
+	escreva("O número digitado foi: ",numero,"..")
 	}
 }
 /* $$$ Portugol Studio $$$ 
